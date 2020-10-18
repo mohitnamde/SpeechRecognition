@@ -1,0 +1,8 @@
+other requirements of windows for Kivy module.
+
+pip install pyttsx3
+pip install pygame
+pip install pywinauto
+pip install win32
+pip install SpeechRecognition
+pip install PyAudio-0.2.11-cp37-cp37m-win32.whl
